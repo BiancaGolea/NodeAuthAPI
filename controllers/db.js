@@ -19,6 +19,12 @@ module.exports = {
     },
 
     getServices: async (req, res, next) => {
+        if(req.query.id){
+            const answer = await Service.findOne({_id: req.query.id})
+            if(answer){
+                return res.status(200).json(answer)
+            }
+        }
         const answer = await Service.find()
         res.status(200).json(answer)
     },

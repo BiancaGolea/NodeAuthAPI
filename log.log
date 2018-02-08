@@ -214,3 +214,159 @@ Server is listening at 3800
 [0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.215 ms - 555[0m
 [0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.119 ms - 555[0m
 [0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.140 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.970 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.059 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.601 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m0.987 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.367 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.072 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.049 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.047 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.024 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.140 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.691 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.457 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.275 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.278 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.187 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m3.532 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.329 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.325 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.599 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m5.315 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.292 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.071 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m0.981 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m0.997 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.311 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.415 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.579 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.046 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.415 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.069 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.133 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.045 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m4.895 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m3.336 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.926 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.700 ms - 1145[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m3.291 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.472 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.972 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.227 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.374 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.013 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.318 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.492 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.719 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.205 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.906 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m3.214 ms - 555[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m15.299 ms - 1199[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m3.992 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.156 ms - 555[0m
+[0mGET /db/services?serviceId=5a7c68f5ea9d122d29c0902e [32m200 [0m2.265 ms - 1202[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.975 ms - 555[0m
+[0mGET /db/services?serviceId=5a7c68f5ea9d122d29c0902e [32m200 [0m1.629 ms - 1202[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.225 ms - 555[0m
+[0mGET /db/services?serviceId=5a7c68f5ea9d122d29c0902e [32m200 [0m2.066 ms - 1202[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.363 ms - 555[0m
+[0mGET /db/services?id=5a7c68f5ea9d122d29c0902e [32m200 [0m1.642 ms - 1195[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.125 ms - 555[0m
+[0mGET /db/services?id=5a7c68f5ea9d122d29c0902e [32m200 [0m1.625 ms - 1195[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.377 ms - 555[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services?id=5a7c68f5ea9d122d29c0902e [32m200 [0m14.710 ms - 1188[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m7.349 ms - 555[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services?id=5a7c68f5ea9d122d29c0902e [32m200 [0m15.774 ms - 4[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m19.635 ms - 555[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m8.323 ms - 555[0m
+[0mGET /db/services?id=5a7c68f5ea9d122d29c0902e [32m200 [0m28.742 ms - 1145[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services?id=5a7c68f5ea9d122d29c0902e [31m500 [0m4.283 ms - 1998[0m
+ReferenceError: id is not defined
+    at getServices (/home/assist/Projects/NodeApi/controllers/db.js:23:9)
+    at handleReturn (/home/assist/Projects/NodeApi/node_modules/express-promise-router/lib/express-promise-router.js:24:27)
+    at /home/assist/Projects/NodeApi/node_modules/express-promise-router/lib/express-promise-router.js:56:9
+    at Layer.handle [as handle_request] (/home/assist/Projects/NodeApi/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/assist/Projects/NodeApi/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/assist/Projects/NodeApi/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/assist/Projects/NodeApi/node_modules/express/lib/router/layer.js:95:5)
+    at /home/assist/Projects/NodeApi/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/assist/Projects/NodeApi/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/assist/Projects/NodeApi/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/assist/Projects/NodeApi/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/assist/Projects/NodeApi/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/assist/Projects/NodeApi/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/assist/Projects/NodeApi/node_modules/express/lib/router/index.js:317:13)
+    at /home/assist/Projects/NodeApi/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/assist/Projects/NodeApi/node_modules/express/lib/router/index.js:335:12)
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m10.965 ms - 555[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services?id=5a7c68f5ea9d122d29c0902e [32m200 [0m22.313 ms - 339[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.383 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m4.605 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.677 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m47.324 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m45.490 ms - 555[0m
+[0mGET /db/services?id=5a7c694fea9d122d29c0902f [32m200 [0m2.154 ms - 525[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.266 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m4.944 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.109 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.800 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.213 ms - 555[0m
+[0mGET /db/services?id=5a7c6985ea9d122d29c09030 [32m200 [0m2.781 ms - 277[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m3.170 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m5.171 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.066 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.634 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.222 ms - 555[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services?id=5a7c68f5ea9d122d29c0902e [32m200 [0m15.264 ms - 339[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m44.916 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m5.342 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.169 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.127 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.236 ms - 555[0m
+[0mGET /db/services?id=5a7c694fea9d122d29c0902f [32m200 [0m2.216 ms - 525[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.539 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m4.833 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.124 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m0.982 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.587 ms - 555[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m15.006 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m5.487 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m9.017 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m11.123 ms - 555[0m
+[0mGET /db/services?id=5a7c694fea9d122d29c0902f [32m200 [0m1.888 ms - 525[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.097 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m6.162 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.542 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.797 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.141 ms - 555[0m
+[0mGET /db/services?id=5a7c68f5ea9d122d29c0902e [32m200 [0m2.644 ms - 339[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m3.322 ms - 555[0m
+[0mGET /db/services?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m4.958 ms - 1145[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m2.582 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m4.410 ms - 555[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m3.593 ms - 555[0m
