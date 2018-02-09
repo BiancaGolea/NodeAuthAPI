@@ -8,7 +8,7 @@ const bookingSchema = new Schema({
     email: String,
     phone: String,
     time: Number,
-    companyId: String,
+    userId: String,
     serviceId: String,
     serviceName: String
 })

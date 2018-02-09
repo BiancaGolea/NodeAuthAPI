@@ -20,6 +20,12 @@ router.route('/services')
 router.route('/services')
     .get(DBController.getServices)
 
+router.route('/services')
+    .put(DBController.editService)
+
+router.route('/services')
+    .delete(passportJWT, DBController.deleteService)
+
 router.route('/bookings')
     .post(DBController.createBooking)
 
