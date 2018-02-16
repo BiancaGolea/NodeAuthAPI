@@ -17,8 +17,14 @@ router.route('/companies')
 router.route('/services')
     .post(passportJWT, DBController.createService)
 
+router.route('/services/:id')
+    .get(DBController.getService)
+
 router.route('/services')
-    .get(DBController.getServices)
+    .get(DBController.getAllServices)
+
+router.route('/services/company/:id')
+    .get(DBController.getCompanyServices)
 
 router.route('/services')
     .put(DBController.editService)

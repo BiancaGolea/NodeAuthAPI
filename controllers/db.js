@@ -46,19 +46,28 @@ module.exports = {
         }
     },
 
-    getServices: async (req, res, next) => {
-        if (req.query.id) {
-            const answer = await Service.findOne({ _id: req.query.id })
-            if (answer) {
-                return res.status(200).json(answer)
-            }
+    getService: async (req, res, next) => {
+        const answer = await Service.findOne({ _id: req.params.id })
+        return res.status(200).json(answer)
+    },
+
+    getAllServices: async (req, res, next) => {
+        const services = await Service.find()
+        let answers = []
+        let company
+        for(let i = 0; i < services.length; i++) {
+            company = await Company.findOne({ userId: services[i].userId })
+            let answer = services[i].toObject()
+            answer.logo = company.logo
+            answer.company = company.name
+            answers.push(answer)
         }
-        if (req.query.userId) {
-            const answer = await Service.find({ userId: req.query.userId })
-            return res.status(200).json(answer)
-        }
-        const answer = await Service.find()
-        res.status(200).json(answer)
+        res.status(200).json(answers)
+    },
+
+    getCompanyServices: async (req, res, next) => {
+        const answer = await Service.find({ userId: req.params.id })
+        return res.status(200).json(answer)
     },
 
     editService: async (req, res, next) => {
