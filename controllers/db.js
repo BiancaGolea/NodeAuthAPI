@@ -25,8 +25,8 @@ module.exports = {
 
     getCompany: async (req, res, next) => {
         let answer
-        if (req.query.userId) {
-            answer = await Company.findOne({ userId: req.query.userId })
+        if (req.params.id) {
+            answer = await Company.findOne({ userId: req.params.id })
         }
         if (!answer) {
             return res.status(403).send('Invalid query! Your request could not be performed!')
@@ -47,26 +47,35 @@ module.exports = {
     },
 
     getService: async (req, res, next) => {
-        const answer = await Service.findOne({ _id: req.params.id })
-        return res.status(200).json(answer)
+        const service = await Service.findOne({ _id: req.params.id })
+        return res.status(200).json(service)
     },
 
     getAllServices: async (req, res, next) => {
         const services = await Service.find()
-        let answers = []
+        let answer = []
         let company
         for(let i = 0; i < services.length; i++) {
             company = await Company.findOne({ userId: services[i].userId })
-            let answer = services[i].toObject()
-            answer.logo = company.logo
-            answer.company = company.name
-            answers.push(answer)
+            let service = services[i].toObject()
+            service.logo = company.logo
+            service.company = company.name
+            service.available = company.workingHours.start + ':00 - ' + company.workingHours.end + ':00'
+            answer.push(service)
         }
-        res.status(200).json(answers)
+        res.status(200).json(answer)
     },
 
     getCompanyServices: async (req, res, next) => {
-        const answer = await Service.find({ userId: req.params.id })
+        const services = await Service.find({ userId: req.params.id })
+        let company
+        let answer = []
+        for(let i = 0; i < services.length; i++) {
+            company = await Company.findOne({ userId: services[i].userId })
+            let service = services[i].toObject()
+            service.available = company.workingHours.start + ':00 - ' + company.workingHours.end + ':00'
+            answer.push(service)
+        }
         return res.status(200).json(answer)
     },
 
@@ -88,16 +97,16 @@ module.exports = {
         await service.save()
 
         res.status(200).send("success")
-        res.json({ msg: "You want to edit a service!" })
     },
 
     deleteService: async (req, res, next) => {
-        const service = await Service.findByIdAndRemove(req.query.id)
-        if (!service) {
-            res.status(500)
-        } else {
-            res.status(200).send("service successfuly removed. all bookings associated to this services are removed too")
+        const id = req.params.id
+        const bookings = await Booking.find({ serviceId: id })
+        for(let i=0;i<bookings.length;i++){
+            const removed = await Booking.findByIdAndRemove(bookings[i]._id)
         }
+        const service = await Service.findByIdAndRemove(id)
+        res.status(200).send("service successfuly removed. all bookings associated to this services are removed too")
     },
 
     createBooking: async (req, res, next) => {

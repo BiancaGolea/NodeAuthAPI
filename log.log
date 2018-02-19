@@ -2,547 +2,587 @@
 [33m[nodemon] to restart at any time, enter `rs`[39m
 [33m[nodemon] watching: *.*[39m
 [32m[nodemon] starting `node app.js`[39m
-/home/assist/Projects/NodeApi/controllers/db.js:57
-            const company = await Company.findOne({userId: service.userId})
-                                  ^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at createScript (vm.js:80:10)
-    at Object.runInThisContext (vm.js:139:10)
-    at Module._compile (module.js:607:28)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-    at require (internal/module.js:11:18)
-    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
-    at Module._compile (module.js:643:30)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-[31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-/home/assist/Projects/NodeApi/controllers/db.js:57
-            const company = await Company.findOne({userId: service.userId})
-                                  ^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at createScript (vm.js:80:10)
-    at Object.runInThisContext (vm.js:139:10)
-    at Module._compile (module.js:607:28)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-    at require (internal/module.js:11:18)
-    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
-    at Module._compile (module.js:643:30)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-[31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
-[0mGET /db/services [32m200 [0m17.970 ms - 348[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-/home/assist/Projects/NodeApi/controllers/db.js:57
-            const company = await Company.findOne({userId: service.userId})
-                                  ^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at createScript (vm.js:80:10)
-    at Object.runInThisContext (vm.js:139:10)
-    at Module._compile (module.js:607:28)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-    at require (internal/module.js:11:18)
-    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
-    at Module._compile (module.js:643:30)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-[31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[32m[nodemon] starting `node app.js`[39m
-[32m[nodemon] restarting due to changes...[39m
-/home/assist/Projects/NodeApi/controllers/db.js:57
-            const company = await Company.findOne({userId: service.userId})
-                                  ^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at createScript (vm.js:80:10)
-    at Object.runInThisContext (vm.js:139:10)
-    at Module._compile (module.js:607:28)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-    at require (internal/module.js:11:18)
-    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
-    at Module._compile (module.js:643:30)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-[31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-/home/assist/Projects/NodeApi/controllers/db.js:57
-            const company = await Company.findOne({ userId: service.userId })
-                                  ^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at createScript (vm.js:80:10)
-    at Object.runInThisContext (vm.js:139:10)
-    at Module._compile (module.js:607:28)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-    at require (internal/module.js:11:18)
-    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
-    at Module._compile (module.js:643:30)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-[31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-/home/assist/Projects/NodeApi/controllers/db.js:57
-            const company = await Company.findOne({ userId: service.userId })
-                                  ^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at createScript (vm.js:80:10)
-    at Object.runInThisContext (vm.js:139:10)
-    at Module._compile (module.js:607:28)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-    at require (internal/module.js:11:18)
-    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
-    at Module._compile (module.js:643:30)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-[31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m12.656 ms - 348[0m
-[0mGET /db/services [32m200 [0m3.049 ms - 348[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m12.572 ms - 2288[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m13.455 ms - 2288[0m
+[0mGET /db/services [36m304 [0m20.995 ms - -[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [36m304 [0m2.748 ms - -[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [36m304 [0m1.580 ms - -[0m
+[0mGET /db/services [36m304 [0m10.012 ms - -[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m3.738 ms - 1137[0m
+[0mGET /db/companies?userId=5a7c4ec707eb464e7874cd24 [36m304 [0m2.985 ms - -[0m
+[0mGET /db/services [36m304 [0m8.147 ms - -[0m
+[0mOPTIONS /users/signin [32m204 [0m0.492 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m163.990 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [36m304 [0m1.568 ms - -[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.168 ms - 0[0m
+[0mGET /db/bookings [36m304 [0m6.744 ms - -[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [36m304 [0m7.032 ms - -[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [36m304 [0m1.020 ms - -[0m
+[0mGET /db/services [36m304 [0m18.527 ms - -[0m
+[0mOPTIONS /users/signin [32m204 [0m0.140 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m90.179 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [36m304 [0m1.495 ms - -[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
-[0mGET /db/services [32m200 [0m13.483 ms - 2288[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
-[0mGET /db/services [32m200 [0m18.883 ms - 2288[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m20.043 ms - 654[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [36m304 [0m5.395 ms - -[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.956 ms - 654[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.291 ms - 555[0m
+[0mGET /db/services [32m200 [0m6.926 ms - 2590[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
-[0mGET /db/services [32m200 [0m13.218 ms - 2288[0m
+[0mGET /db/services [32m200 [0m23.706 ms - 2590[0m
+[0mOPTIONS /users/signin [32m204 [0m0.528 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m125.196 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.367 ms - 1152[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.439 ms - 1152[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
-{ _id: 5a7c68f5ea9d122d29c0902e,
-  userId: '5a7c4ee107eb464e7874cd26',
-  duration: { hours: 1, minutes: 0 },
-  availability: 
-   { times: [ 1262343600000, 1262347200000, 1262350800000, 1262354400000 ],
-     slots: [ [Array], [Array], [Array], [Array] ] },
-  name: 'bogdan1',
-  description: 'afbqaba ca4 fdfgdfg',
-  spaces: 2,
-  price: 350,
-  __v: 0 }
-{ _id: 5a7c6985ea9d122d29c09030,
-  userId: '5a7c4ee107eb464e7874cd26',
-  duration: { hours: 2, minutes: 0 },
-  availability: 
-   { times: [ 1262343600000, 1262350800000 ],
-     slots: [ [Array], [Array] ] },
-  name: 'bogdan3',
-  description: 'asdcatgaasd',
-  spaces: 1,
-  price: 90,
-  __v: 0 }
-{ _id: 5a7c694fea9d122d29c0902f,
-  userId: '5a7c4ee107eb464e7874cd26',
-  duration: { hours: 0, minutes: 25 },
-  availability: 
-   { times: 
-      [ 1262343600000,
-        1262345100000,
-        1262346600000,
-        1262348100000,
-        1262349600000,
-        1262351100000,
-        1262352600000,
-        1262354100000,
-        1262355600000,
-        1262357100000 ],
-     slots: 
-      [ [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array] ] },
-  name: 'bogdan2',
-  description: 'adfcah zdca4sdafae',
-  spaces: 1,
-  price: 43,
-  __v: 0 }
-{ _id: 5a7d9866fa50ff7c8a676f1c,
-  userId: '5a7c4ec707eb464e7874cd24',
-  duration: { hours: 1, minutes: 15 },
-  availability: 
-   { times: 
-      [ 1262322000000,
-        1262326500000,
-        1262331000000,
-        1262335500000,
-        1262340000000,
-        1262344500000,
-        1262349000000,
-        1262353500000,
-        1262358000000,
-        1262362500000 ],
-     slots: 
-      [ [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array] ] },
-  name: 'darth2',
-  description: 'asdfthjsvd jz cvhg vsy as',
-  spaces: 2,
-  price: 445,
-  __v: 0 }
-{ _id: 5a7d92dd4357bb44791d745f,
-  userId: '5a7c4ec707eb464e7874cd24',
-  duration: { hours: 1, minutes: 0 },
-  availability: 
-   { times: 
-      [ 1262322000000,
-        1262325600000,
-        1262329200000,
-        1262332800000,
-        1262336400000,
-        1262340000000,
-        1262343600000,
-        1262347200000,
-        1262350800000,
-        1262354400000,
-        1262358000000,
-        1262361600000 ],
-     slots: 
-      [ [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array] ] },
-  name: 'Darth Vader1',
-  description: 'Vasdflknfsfbn ;vcbsea vghbsao A',
-  spaces: 1,
-  price: 55,
-  __v: 0 }
-[0mGET /db/services [32m200 [0m19.791 ms - 2288[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m20.193 ms - 1236[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
-[0mGET /db/services [32m200 [0m13.462 ms - 2288[0m
-[0mGET /db/services [32m200 [0m3.384 ms - 2288[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m12.793 ms - 2288[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-ReferenceError: option is not defined
-    at getAllServices (/home/assist/Projects/NodeApi/controllers/db.js:59:21)
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m21.533 ms - 1236[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m4.204 ms - 555[0m
+[0mGET /db/services [31m500 [0m14.582 ms - 374[0m
+ReferenceError: answers is not defined
+    at getAllServices (/home/assist/Projects/NodeApi/controllers/db.js:66:30)
     at <anonymous>
     at process._tickCallback (internal/process/next_tick.js:188:7)
-[0mGET /db/services [31m500 [0m15.791 ms - 373[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services [32m200 [0m23.344 ms - 2728[0m
+[0mGET /db/services [32m200 [0m7.615 ms - 2728[0m
+[0mGET /db/services [32m200 [0m6.600 ms - 2728[0m
+[0mGET /db/services [32m200 [0m6.952 ms - 2728[0m
+[0mGET /db/services [32m200 [0m9.908 ms - 2728[0m
+[0mGET /db/services [32m200 [0m6.091 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.944 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.663 ms - 2728[0m
+[0mGET /db/services [32m200 [0m7.192 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.040 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.410 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.570 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.386 ms - 2728[0m
+[0mGET /db/services [32m200 [0m6.178 ms - 2728[0m
+[0mGET /db/services [32m200 [0m6.029 ms - 2728[0m
+[0mGET /db/services [32m200 [0m10.612 ms - 2728[0m
+[0mGET /db/services [32m200 [0m4.379 ms - 2728[0m
+[0mGET /db/services [32m200 [0m7.369 ms - 2728[0m
+[0mGET /db/services [32m200 [0m4.902 ms - 2728[0m
+[0mGET /db/services [32m200 [0m7.348 ms - 2728[0m
+[0mGET /db/services [32m200 [0m9.981 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.458 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.919 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.622 ms - 2728[0m
+[0mGET /db/services [32m200 [0m4.823 ms - 2728[0m
+[0mGET /db/services [32m200 [0m6.399 ms - 2728[0m
+[0mOPTIONS /users/signin [32m204 [0m1.175 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m208.547 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m8.622 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.503 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.673 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.168 ms - 1236[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.170 ms - 555[0m
+[0mGET /db/services [32m200 [0m21.195 ms - 2728[0m
+[0mGET /db/services [32m200 [0m4.970 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.084 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.247 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.208 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.192 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.145 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.393 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.684 ms - 2728[0m
+[0mOPTIONS /users/signin [32m204 [0m0.424 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m165.031 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.068 ms - 1236[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m3.166 ms - 555[0m
+[0mOPTIONS /db/services [32m204 [0m0.095 ms - 0[0m
+[0mPOST /db/services [32m200 [0m17.426 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.269 ms - 1658[0m
+[0mOPTIONS /db/services?id=5a8aa471f0ba9629a964244b [32m204 [0m0.262 ms - 0[0m
+[0mDELETE /db/services?id=5a8aa471f0ba9629a964244b [32m200 [0m6.440 ms - 85[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
-/home/assist/Projects/NodeApi/controllers/db.js:61
-            console.log(service;
-                        ^^^^^^^
+Server is listening at 3800
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m22.032 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m12.367 ms - 1236[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m1.289 ms - 555[0m
+[0mOPTIONS /db/services [32m204 [0m0.513 ms - 0[0m
+[0mPOST /db/services [32m200 [0m24.099 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.906 ms - 1866[0m
+[0mOPTIONS /db/services/5a8aa519a3339647655585a5 [32m204 [0m0.390 ms - 0[0m
+[0mDELETE /db/services/5a8aa519a3339647655585a5 [32m200 [0m5.572 ms - 85[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.358 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.156 ms - 1236[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m12.879 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m6.441 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.458 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.157 ms - 1236[0m
+[0mGET /db/services/5a7c68f5ea9d122d29c0902e [31m500 [0m2.977 ms - 369[0m
+ReferenceError: answer is not defined
+    at getService (/home/assist/Projects/NodeApi/controllers/db.js:51:37)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [33m404 [0m0.692 ms - 151[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m9.155 ms - 1236[0m
+[0mGET /db/services/5a7c68f5ea9d122d29c0902e [31m500 [0m3.972 ms - 369[0m
+ReferenceError: answer is not defined
+    at getService (/home/assist/Projects/NodeApi/controllers/db.js:51:37)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [33m404 [0m0.951 ms - 151[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [33m404 [0m2.161 ms - 151[0m
+[0mGET /db/services/5a7c68f5ea9d122d29c0902e [32m200 [0m22.463 ms - 346[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m6.037 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.601 ms - 1236[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [33m404 [0m0.523 ms - 151[0m
+[0mGET /db/services/5a7c68f5ea9d122d29c0902e [32m200 [0m2.526 ms - 346[0m
+[0mGET /db/services/5a7c68f5ea9d122d29c0902e [32m200 [0m1.282 ms - 346[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.746 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m8.715 ms - 1236[0m
+[0mGET /db/services/5a7c6985ea9d122d29c09030 [32m200 [0m2.438 ms - 277[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.640 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m12.517 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.870 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.728 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.239 ms - 555[0m
+[0mOPTIONS /db/services [32m204 [0m1.691 ms - 0[0m
+[0mPOST /db/services [32m200 [0m65.519 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.407 ms - 1829[0m
+[0mOPTIONS /db/services/5a8aa8a583521a4b422e203b [32m204 [0m0.401 ms - 0[0m
+[0mDELETE /db/services/5a8aa8a583521a4b422e203b [32m200 [0m8.478 ms - 85[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m13.488 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.231 ms - 555[0m
+[0mGET /db/services [32m200 [0m8.349 ms - 2728[0m
+[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [33m404 [0m0.264 ms - 151[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.040 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.147 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.132 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.806 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.000 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.499 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.608 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m2.396 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m23.802 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.082 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m11.199 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.296 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.048 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.449 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m6.172 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m2.657 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.716 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m2.774 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.325 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.103 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.080 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.223 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.170 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.042 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.692 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.835 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.301 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.067 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.808 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.767 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.827 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.555 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.304 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.151 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.442 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.158 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.997 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.077 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.918 ms - 1236[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.596 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.266 ms - 555[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.044 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m2.878 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m2.817 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m8.256 ms - 1236[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.079 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.068 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m3.331 ms - 25[0m
+[0mPUT /db/services [32m200 [0m4.771 ms - 7[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.509 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.311 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.003 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.400 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.080 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m7.115 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.166 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m2.952 ms - 1236[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.079 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.312 ms - 25[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.061 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m2.949 ms - 1236[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.140 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.086 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.406 ms - 25[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mPUT /db/services [32m200 [0m2.591 ms - 7[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.146 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.601 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.078 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.735 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.323 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m9.725 ms - 1236[0m
+[0mOPTIONS /db/services [32m204 [0m0.068 ms - 0[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.103 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.385 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.590 ms - 7[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mOPTIONS /db/bookings [32m204 [0m0.136 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.119 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.942 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.034 ms - 7[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mGET /db/services [32m200 [0m5.496 ms - 2728[0m
+[0mOPTIONS /users/signin [32m204 [0m1.232 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m112.787 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m2.852 ms - 1236[0m
+[0mGET /db/services/5a7c68f5ea9d122d29c0902e [32m200 [0m1.411 ms - 346[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.077 ms - 555[0m
+[0mOPTIONS /db/services [32m204 [0m0.291 ms - 0[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mPUT /db/services [32m200 [0m6.810 ms - 7[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.301 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.400 ms - 555[0m
+[0mGET /db/services [32m200 [0m17.500 ms - 2728[0m
+[0mOPTIONS /users/signin [32m204 [0m0.078 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m93.097 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.471 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m3.807 ms - 555[0m
+[0mOPTIONS /users/signin [32m204 [0m0.135 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m100.636 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.116 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.175 ms - 555[0m
+[0mOPTIONS /db/companies [32m204 [0m0.133 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m3.051 ms - 7[0m
+[0mOPTIONS /users/signin [32m204 [0m0.241 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m102.598 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m2.839 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.227 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m10.209 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.552 ms - 555[0m
+[0mOPTIONS /db/services [32m204 [0m0.271 ms - 0[0m
+[0mPOST /db/services [32m200 [0m8.357 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m7.682 ms - 1759[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m0.980 ms - 555[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m0.974 ms - 555[0m
+[0mGET /db/services [32m200 [0m8.279 ms - 3313[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.075 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.077 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.835 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.397 ms - 7[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mOPTIONS /db/bookings [32m204 [0m0.071 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.055 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.743 ms - 25[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mPUT /db/services [32m200 [0m7.867 ms - 7[0m
+[0mOPTIONS /db/services [32m204 [0m0.100 ms - 0[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.100 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m3.544 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.174 ms - 7[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/helpers/routeHelpers.js:30
+      email: Joi.string().phone().required(),
+                          ^
 
-SyntaxError: missing ) after argument list
-    at createScript (vm.js:80:10)
-    at Object.runInThisContext (vm.js:139:10)
-    at Module._compile (module.js:607:28)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-    at require (internal/module.js:11:18)
-    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+TypeError: Joi.string(...).phone is not a function
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/helpers/routeHelpers.js:30:27)
     at Module._compile (module.js:643:30)
     at Object.Module._extensions..js (module.js:654:10)
     at Module.load (module.js:556:32)
     at tryModuleLoad (module.js:499:12)
     at Function.Module._load (module.js:491:3)
     at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/users.js:9:33)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
 [31m[nodemon] app crashed - waiting for file changes before starting...[39m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
-{ _id: 5a7c68f5ea9d122d29c0902e,
-  userId: '5a7c4ee107eb464e7874cd26',
-  duration: { hours: 1, minutes: 0 },
-  availability: 
-   { times: [ 1262343600000, 1262347200000, 1262350800000, 1262354400000 ],
-     slots: [ [Array], [Array], [Array], [Array] ] },
-  name: 'bogdan1',
-  description: 'afbqaba ca4 fdfgdfg',
-  spaces: 2,
-  price: 350,
-  __v: 0 }
-{ _id: 5a7d9866fa50ff7c8a676f1c,
-  userId: '5a7c4ec707eb464e7874cd24',
-  duration: { hours: 1, minutes: 15 },
-  availability: 
-   { times: 
-      [ 1262322000000,
-        1262326500000,
-        1262331000000,
-        1262335500000,
-        1262340000000,
-        1262344500000,
-        1262349000000,
-        1262353500000,
-        1262358000000,
-        1262362500000 ],
-     slots: 
-      [ [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array] ] },
-  name: 'darth2',
-  description: 'asdfthjsvd jz cvhg vsy as',
-  spaces: 2,
-  price: 445,
-  __v: 0 }
-{ _id: 5a7c6985ea9d122d29c09030,
-  userId: '5a7c4ee107eb464e7874cd26',
-  duration: { hours: 2, minutes: 0 },
-  availability: 
-   { times: [ 1262343600000, 1262350800000 ],
-     slots: [ [Array], [Array] ] },
-  name: 'bogdan3',
-  description: 'asdcatgaasd',
-  spaces: 1,
-  price: 90,
-  __v: 0 }
-{ _id: 5a7c694fea9d122d29c0902f,
-  userId: '5a7c4ee107eb464e7874cd26',
-  duration: { hours: 0, minutes: 25 },
-  availability: 
-   { times: 
-      [ 1262343600000,
-        1262345100000,
-        1262346600000,
-        1262348100000,
-        1262349600000,
-        1262351100000,
-        1262352600000,
-        1262354100000,
-        1262355600000,
-        1262357100000 ],
-     slots: 
-      [ [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array] ] },
-  name: 'bogdan2',
-  description: 'adfcah zdca4sdafae',
-  spaces: 1,
-  price: 43,
-  __v: 0 }
-[0mGET /db/services [32m200 [0m21.872 ms - 2288[0m
-{ _id: 5a7d92dd4357bb44791d745f,
-  userId: '5a7c4ec707eb464e7874cd24',
-  duration: { hours: 1, minutes: 0 },
-  availability: 
-   { times: 
-      [ 1262322000000,
-        1262325600000,
-        1262329200000,
-        1262332800000,
-        1262336400000,
-        1262340000000,
-        1262343600000,
-        1262347200000,
-        1262350800000,
-        1262354400000,
-        1262358000000,
-        1262361600000 ],
-     slots: 
-      [ [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array],
-        [Array] ] },
-  name: 'Darth Vader1',
-  description: 'Vasdflknfsfbn ;vcbsea vghbsao A',
-  spaces: 1,
-  price: 55,
-  __v: 0 }
+[0mOPTIONS /users/signin [32m204 [0m1.642 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m132.319 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m7.051 ms - 1759[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.690 ms - 555[0m
+[0mOPTIONS /db/services [32m204 [0m0.398 ms - 0[0m
+[0mPOST /db/services [32m200 [0m31.270 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.910 ms - 2343[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.428 ms - 555[0m
+[0mGET /db/services [32m200 [0m23.189 ms - 3959[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.072 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.066 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m6.193 ms - 25[0m
+[0mPUT /db/services [32m200 [0m12.079 ms - 7[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mOPTIONS /users/signin [32m204 [0m0.078 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m91.574 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.561 ms - 2343[0m
+[0mOPTIONS /db/services/5a8abf3a4e4ead6463f1b50c [32m204 [0m0.265 ms - 0[0m
+[0mDELETE /db/services/5a8abf3a4e4ead6463f1b50c [32m200 [0m8.661 ms - 2[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.090 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m4.559 ms - 4401[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m16.208 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m15.695 ms - 1759[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m2.147 ms - 555[0m
+[0mOPTIONS /db/services [32m204 [0m1.868 ms - 0[0m
+[0mPOST /db/services [32m200 [0m64.213 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m6.191 ms - 2337[0m
+[0mGET /db/services/5a8abfbae70056652d93681c [32m200 [0m2.744 ms - 549[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.201 ms - 555[0m
+[0mOPTIONS /db/services [32m204 [0m0.135 ms - 0[0m
+[0mPUT /db/services [32m200 [0m4.123 ms - 7[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.864 ms - 2348[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.886 ms - 555[0m
+[0mGET /db/services [32m200 [0m20.353 ms - 3964[0m
+[0mOPTIONS /db/services [32m204 [0m0.067 ms - 0[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.075 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m3.057 ms - 25[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:501:3)
+    at ServerResponse.header (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:267:15)
+    at editService (/home/assist/Projects/NodeApi/controllers/db.js:100:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[0mPUT /db/services [32m200 [0m6.598 ms - 7[0m
+[0mOPTIONS /users/signin [32m204 [0m0.075 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m112.993 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m8.310 ms - 2348[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mOPTIONS /db/services/5a8abfbae70056652d93681c [32m204 [0m6.160 ms - 0[0m
+[0mDELETE /db/services/5a8abfbae70056652d93681c [32m200 [0m18.487 ms - 2[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
-[0mGET /db/services [32m200 [0m18.144 ms - 9[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m12.533 ms - 555[0m
+[0mOPTIONS /db/services [32m204 [0m1.943 ms - 0[0m
+[0mPOST /db/services [32m200 [0m55.549 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m8.273 ms - 2415[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m2.500 ms - 555[0m
+[0mGET /db/services [32m200 [0m21.674 ms - 4031[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.118 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.084 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m2.325 ms - 25[0m
+[0mPUT /db/services [32m200 [0m5.003 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.279 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.137 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m2.893 ms - 25[0m
+[0mPUT /db/services [32m200 [0m11.201 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.081 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.084 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.845 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.963 ms - 7[0m
+[0mOPTIONS /users/signin [32m204 [0m0.098 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m114.984 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.186 ms - 2415[0m
+[0mOPTIONS /db/services/5a8ac12764123f668d34b868 [32m204 [0m0.341 ms - 0[0m
+[0mDELETE /db/services/5a8ac12764123f668d34b868 [31m500 [0m6.620 ms - 1955[0m
+ReferenceError: service is not defined
+    at deleteService (/home/assist/Projects/NodeApi/controllers/db.js:103:57)
+    at handleReturn (/home/assist/Projects/NodeApi/node_modules/express-promise-router/lib/express-promise-router.js:24:27)
+    at /home/assist/Projects/NodeApi/node_modules/express-promise-router/lib/express-promise-router.js:56:9
+    at Layer.handle [as handle_request] (/home/assist/Projects/NodeApi/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/assist/Projects/NodeApi/node_modules/express/lib/router/route.js:137:13)
+    at complete (/home/assist/Projects/NodeApi/node_modules/passport/lib/middleware/authenticate.js:263:13)
+    at /home/assist/Projects/NodeApi/node_modules/passport/lib/middleware/authenticate.js:270:15
+    at pass (/home/assist/Projects/NodeApi/node_modules/passport/lib/authenticator.js:431:14)
+    at Authenticator.transformAuthInfo (/home/assist/Projects/NodeApi/node_modules/passport/lib/authenticator.js:453:5)
+    at /home/assist/Projects/NodeApi/node_modules/passport/lib/middleware/authenticate.js:267:22
+    at IncomingMessage.req.login.req.logIn (/home/assist/Projects/NodeApi/node_modules/passport/lib/http/request.js:55:13)
+    at JwtStrategy.strategy.success (/home/assist/Projects/NodeApi/node_modules/passport/lib/middleware/authenticate.js:248:13)
+    at verified (/home/assist/Projects/NodeApi/node_modules/passport-jwt/lib/strategy.js:115:41)
+    at JwtStrategy.passport.use.jwtStrategy [as _verify] (/home/assist/Projects/NodeApi/passport.js:24:3)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
-[0mGET /db/services [32m200 [0m13.982 ms - 348[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m15.499 ms - 555[0m
+[0mOPTIONS /db/services [32m204 [0m1.919 ms - 0[0m
+[0mPOST /db/services [32m200 [0m49.755 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m10.621 ms - 2898[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.377 ms - 555[0m
+[0mGET /db/services [32m200 [0m30.403 ms - 4576[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.139 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.093 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m2.494 ms - 25[0m
+[0mPUT /db/services [32m200 [0m4.277 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.090 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.077 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.621 ms - 25[0m
+[0mPUT /db/services [32m200 [0m3.540 ms - 7[0m
+[0mOPTIONS /db/services [32m204 [0m0.078 ms - 0[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.102 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.500 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.289 ms - 7[0m
+[0mOPTIONS /users/signin [32m204 [0m0.092 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m113.111 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.756 ms - 2898[0m
+[0mOPTIONS /db/services/5a8ac1ee8c55976756fbe274 [32m204 [0m0.300 ms - 0[0m
+[0mDELETE /db/services/5a8ac1ee8c55976756fbe274 [32m200 [0m4.677 ms - 2[0m
+[0mOPTIONS /db/services/5a8ac12764123f668d34b868 [32m204 [0m0.256 ms - 0[0m
+[0mDELETE /db/services/5a8ac12764123f668d34b868 [32m200 [0m2.914 ms - 2[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m8.768 ms - 2898[0m
+[0mOPTIONS /db/services/5a8ac1ee8c55976756fbe274 [32m204 [0m0.253 ms - 0[0m
+[0mDELETE /db/services/5a8ac1ee8c55976756fbe274 [32m200 [0m2.227 ms - 2[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m21.035 ms - 2898[0m
+[0mOPTIONS /db/services/5a8ac1ee8c55976756fbe274 [32m204 [0m1.948 ms - 0[0m
+[0mDELETE /db/services/5a8ac1ee8c55976756fbe274 [32m200 [0m7.577 ms - 2[0m
+[0mGET /db/services/5a8ac12764123f668d34b868 [32m200 [0m1.892 ms - 627[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.563 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m11.024 ms - 2898[0m
+[0mOPTIONS /db/services/5a8ac1ee8c55976756fbe274 [32m204 [0m0.396 ms - 0[0m
+[0mDELETE /db/services/5a8ac1ee8c55976756fbe274 [32m200 [0m3.232 ms - 2[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
-[0mGET /db/services [32m200 [0m14.223 ms - 2288[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m23.329 ms - 2898[0m
+[0mOPTIONS /db/services/5a8ac1ee8c55976756fbe274 [32m204 [0m0.528 ms - 0[0m
+[0mDELETE /db/services/5a8ac1ee8c55976756fbe274 [32m200 [0m5.334 ms - 15[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
 Server is listening at 3800
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m25.269 ms - 2898[0m
+[0mOPTIONS /db/services/5a8ac1ee8c55976756fbe274 [32m204 [0m1.911 ms - 0[0m
+[0mDELETE /db/services/5a8ac1ee8c55976756fbe274 [32m200 [0m8.298 ms - 26[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m13.631 ms - 346[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m13.280 ms - 346[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m13.233 ms - 360[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m16.002 ms - 346[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m12.481 ms - 346[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m16.807 ms - 346[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m14.026 ms - 346[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m14.767 ms - 346[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m13.441 ms - 346[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m14.054 ms - 359[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m12.391 ms - 5[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m14.682 ms - 359[0m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-/home/assist/Projects/NodeApi/controllers/db.js:58
-            company = await Company.findOne({ userId: service.userId })
-                            ^^^^^^^
+/home/assist/Projects/NodeApi/controllers/db.js:104
+        cosnt service = await Service.findOne({_id: id})
+              ^^^^^^^
 
 SyntaxError: Unexpected identifier
     at createScript (vm.js:80:10)
@@ -562,34 +602,51 @@ SyntaxError: Unexpected identifier
     at Function.Module._load (module.js:491:3)
     at Module.require (module.js:587:17)
 [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node app.js`[39m
-/home/assist/Projects/NodeApi/controllers/db.js:58
-            company = await Company.findOne({ userId: service.userId })
-                            ^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at createScript (vm.js:80:10)
-    at Object.runInThisContext (vm.js:139:10)
-    at Module._compile (module.js:607:28)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-    at require (internal/module.js:11:18)
-    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
-    at Module._compile (module.js:643:30)
-    at Object.Module._extensions..js (module.js:654:10)
-    at Module.load (module.js:556:32)
-    at tryModuleLoad (module.js:499:12)
-    at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
-[31m[nodemon] app crashed - waiting for file changes before starting...[39m
 [32m[nodemon] starting `node app.js`[39m
 [32m[nodemon] restarting due to changes...[39m
-/home/assist/Projects/NodeApi/controllers/db.js:58
-            const company = await Company.findOne({ userId: service.userId })
+Server is listening at 3800
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m23.335 ms - 2898[0m
+[0mOPTIONS /db/services/5a8ac1ee8c55976756fbe274 [32m204 [0m1.877 ms - 0[0m
+[0mDELETE /db/services/5a8ac1ee8c55976756fbe274 [32m200 [0m8.810 ms - 454[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m19.355 ms - 2898[0m
+[0mOPTIONS /db/services/5a8ac1ee8c55976756fbe274 [32m204 [0m1.929 ms - 0[0m
+[0mDELETE /db/services/5a8ac1ee8c55976756fbe274 [32m200 [0m11.739 ms - 4753[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m11.619 ms - 2898[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.162 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m5.893 ms - 4753[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m6.427 ms - 2898[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m41.189 ms - 2415[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.517 ms - 555[0m
+[0mGET /db/services [32m200 [0m10.575 ms - 4031[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.470 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.122 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m24.506 ms - 25[0m
+[0mPUT /db/services [32m200 [0m10.342 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.082 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.067 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m2.032 ms - 25[0m
+[0mPUT /db/services [32m200 [0m4.300 ms - 7[0m
+[0mOPTIONS /users/signin [32m204 [0m0.260 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m207.376 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m7.021 ms - 2415[0m
+[0mGET /db/services/5a8ac12764123f668d34b868 [32m200 [0m1.839 ms - 627[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.145 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m13.280 ms - 2415[0m
+[0mOPTIONS /db/services/5a8ac12764123f668d34b868 [32m204 [0m0.309 ms - 0[0m
+[0mDELETE /db/services/5a8ac12764123f668d34b868 [32m200 [0m10.438 ms - 419[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/controllers/db.js:107
+            const removed = await Booking.findByIdAndRemove(booking._id)
                                   ^^^^^^^
 
 SyntaxError: Unexpected identifier
@@ -612,11 +669,108 @@ SyntaxError: Unexpected identifier
 [31m[nodemon] app crashed - waiting for file changes before starting...[39m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
-/home/assist/Projects/NodeApi/controllers/db.js:58
-            let company = await Company.findOne({ userId: service.userId })
-                                ^^^^^^^
+Server is listening at 3800
+[0mOPTIONS /users/signin [32m204 [0m1.828 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m145.078 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m8.160 ms - 2415[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m7.331 ms - 2415[0m
+[0mOPTIONS /db/services/5a8ac12764123f668d34b868 [32m204 [0m0.600 ms - 0[0m
+[0mDELETE /db/services/5a8ac12764123f668d34b868 [32m200 [0m15.064 ms - 419[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m7.468 ms - 2415[0m
+[0mOPTIONS /db/services/5a8ac12764123f668d34b868 [32m204 [0m0.356 ms - 0[0m
+[0mDELETE /db/services/5a8ac12764123f668d34b868 [32m200 [0m4.094 ms - 2[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m13.436 ms - 555[0m
+[0mGET /db/services [32m200 [0m11.041 ms - 4031[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.549 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.111 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m27.297 ms - 25[0m
+[0mPUT /db/services [32m200 [0m20.233 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.077 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.077 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.719 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.768 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.076 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m1.036 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.498 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.803 ms - 7[0m
+[0mOPTIONS /users/signin [32m204 [0m0.075 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m123.068 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m11.857 ms - 2415[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.121 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m7.211 ms - 4870[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m6.369 ms - 2415[0m
+[0mOPTIONS /db/services/5a8ac12764123f668d34b868 [32m204 [0m0.254 ms - 0[0m
+[0mDELETE /db/services/5a8ac12764123f668d34b868 [32m200 [0m11.645 ms - 85[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.140 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m4.660 ms - 4226[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.209 ms - 1759[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.090 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m10.701 ms - 4226[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.077 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m3.358 ms - 4226[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.555 ms - 1759[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.259 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m9.074 ms - 4226[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m14.108 ms - 1759[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.137 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m3.545 ms - 4226[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.080 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m3.417 ms - 4226[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m6.340 ms - 1759[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.178 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m6.733 ms - 4226[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.984 ms - 1759[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.174 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m3.090 ms - 4226[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.697 ms - 1759[0m
+[0mOPTIONS /db/services/5a8ab52783521a4b422e2041 [32m204 [0m0.258 ms - 0[0m
+[0mDELETE /db/services/5a8ab52783521a4b422e2041 [32m200 [0m6.602 ms - 85[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.115 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m3.210 ms - 4226[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.082 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m3.434 ms - 4226[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m7.959 ms - 1236[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.135 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m2.988 ms - 4226[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.081 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m2.976 ms - 4226[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.076 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m4.426 ms - 4226[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.058 ms - 555[0m
+[0mOPTIONS /users/signin [32m204 [0m0.076 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m90.148 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.001 ms - 1236[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.138 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m2.950 ms - 4226[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.655 ms - 1236[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.137 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m3.216 ms - 4226[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.080 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m2.718 ms - 3702[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.457 ms - 555[0m
+[0mGET /db/services [32m200 [0m5.468 ms - 2728[0m
+[0mGET /db/services [32m200 [0m6.770 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.789 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.912 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.455 ms - 2728[0m
+[0mGET /db/services [32m200 [0m8.417 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.871 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.475 ms - 2728[0m
+[0mGET /db/services [32m200 [0m7.220 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.493 ms - 2728[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
 
-SyntaxError: Unexpected identifier
+SyntaxError: Unexpected token import
     at createScript (vm.js:80:10)
     at Object.runInThisContext (vm.js:139:10)
     at Module._compile (module.js:607:28)
@@ -626,21 +780,21 @@ SyntaxError: Unexpected identifier
     at Function.Module._load (module.js:491:3)
     at Module.require (module.js:587:17)
     at require (internal/module.js:11:18)
-    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
     at Module._compile (module.js:643:30)
     at Object.Module._extensions..js (module.js:654:10)
     at Module.load (module.js:556:32)
     at tryModuleLoad (module.js:499:12)
     at Function.Module._load (module.js:491:3)
-    at Module.require (module.js:587:17)
+    at Function.Module.runMain (module.js:684:10)
 [31m[nodemon] app crashed - waiting for file changes before starting...[39m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
-/home/assist/Projects/NodeApi/controllers/db.js:59
-            company = await Company.findOne({ userId: service.userId })
-                            ^^^^^^^
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
 
-SyntaxError: Unexpected identifier
+SyntaxError: Unexpected token import
     at createScript (vm.js:80:10)
     at Object.runInThisContext (vm.js:139:10)
     at Module._compile (module.js:607:28)
@@ -650,25 +804,828 @@ SyntaxError: Unexpected identifier
     at Function.Module._load (module.js:491:3)
     at Module.require (module.js:587:17)
     at require (internal/module.js:11:18)
-    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
     at Module._compile (module.js:643:30)
     at Object.Module._extensions..js (module.js:654:10)
     at Module.load (module.js:556:32)
     at tryModuleLoad (module.js:499:12)
     at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
     at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
 [31m[nodemon] app crashed - waiting for file changes before starting...[39m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET / [33m404 [0m5.328 ms - 139[0m
-[0mGET /favicon.ico [33m404 [0m0.365 ms - 150[0m
-[0mGET /db/services [32m200 [0m19.136 ms - 2463[0m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node app.js`[39m
-Server is listening at 3800
-[0mGET /db/services [32m200 [0m39.906 ms - 2590[0m
-[0mGET /db/companies?userId=5a7c4ee107eb464e7874cd26 [32m200 [0m7.776 ms - 555[0m
-[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m46.464 ms - 1152[0m
-[0mGET /db/services [32m200 [0m6.121 ms - 2590[0m
-[0mGET /db/services [32m200 [0m7.415 ms - 2590[0m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+(node:5930) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added. Use emitter.setMaxListeners() to increase limit
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
