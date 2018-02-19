@@ -9,8 +9,7 @@ const bookingSchema = new Schema({
     phone: String,
     time: Number,
     userId: String,
-    serviceId: String,
-    serviceName: String
+    serviceId: String
 })
 
 const Booking = mongoose.model('booking', bookingSchema)

@@ -14,6 +14,7 @@ module.exports = {
         }
 
         company.name = req.body.name
+        company.logo = req.body.logo
         company.description = req.body.description
         company.workingHours = req.body.workingHours
         company.workingDays = req.body.workingDays
@@ -121,7 +122,15 @@ module.exports = {
 
     getBookings: async (req, res, next) => {
         const id = req.user.id
-        const answer = await Booking.find({ userId: id }).sort('time')
+        let answer = []
+        const bookings = await Booking.find({ userId: id }).sort('time')
+        for (let i = 0; i < bookings.length; i++) {
+            let booking = bookings[i].toObject()
+            const service = await Service.findOne({_id: booking.serviceId})
+            booking.serviceName = service.name
+            answer.push(booking)
+        }
+
         res.status(200).json(answer)
     }
 

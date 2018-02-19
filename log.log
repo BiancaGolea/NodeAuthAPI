@@ -1629,3 +1629,890 @@ SyntaxError: Unexpected token import
     at Function.Module._load (module.js:491:3)
     at Function.Module.runMain (module.js:684:10)
 [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/routes/db.js:1
+(function (exports, require, module, __filename, __dirname) { import { log } from 'util';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/app.js:19:16)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mGET /db/services [32m200 [0m19.564 ms - 2728[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m4.536 ms - 555[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5024.996 ms - 1236[0m
+[0mGET /db/services [32m200 [0m26.105 ms - 2728[0m
+[0mGET /db/services [32m200 [0m6.916 ms - 2728[0m
+[0mGET /db/services [32m200 [0m9.563 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.702 ms - 2728[0m
+[0mGET /db/services [32m200 [0m5.564 ms - 2728[0m
+[0mGET /db/services [32m200 [0m6.471 ms - 2728[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.606 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.127 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m39.523 ms - 25[0m
+[0mPUT /db/services [32m200 [0m7.376 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.092 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.067 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m2.557 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.481 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.077 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.060 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.654 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.501 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.094 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.078 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m6.392 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.885 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.135 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.125 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m2.130 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.839 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.080 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.084 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.708 ms - 25[0m
+[0mPUT /db/services [32m200 [0m5.843 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.083 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.070 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m2.473 ms - 25[0m
+[0mPUT /db/services [32m200 [0m6.127 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.146 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.119 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m2.575 ms - 25[0m
+[0mPUT /db/services [32m200 [0m4.074 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.178 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.113 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.875 ms - 25[0m
+[0mPUT /db/services [32m200 [0m3.711 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.112 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.095 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m2.154 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.550 ms - 7[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.096 ms - 0[0m
+[0mOPTIONS /db/services [32m204 [0m0.083 ms - 0[0m
+[0mPOST /db/bookings [32m200 [0m1.465 ms - 25[0m
+[0mPUT /db/services [32m200 [0m2.603 ms - 7[0m
+[0mOPTIONS /users/signin [32m204 [0m0.261 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m145.477 ms - 242[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m2.874 ms - 1191[0m
+[0mGET /db/services/5a7d92dd4357bb44791d745f [32m200 [0m1.402 ms - 602[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.127 ms - 281[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.105 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m5.473 ms - 1725[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m3.202 ms - 1191[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.353 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.098 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.138 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.181 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.450 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.066 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.117 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.143 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.310 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.116 ms - 281[0m
+[0mOPTIONS /db/services [32m204 [0m0.094 ms - 0[0m
+[0mPOST /db/services [32m200 [0m3.503 ms - 37[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m4.273 ms - 1867[0m
+[0mGET /db/services/5a8ad5057e708e7e3fb34e4f [32m200 [0m1.561 ms - 648[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.212 ms - 281[0m
+[0mOPTIONS /db/services [32m204 [0m0.256 ms - 0[0m
+[0mPUT /db/services [32m200 [0m3.740 ms - 7[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m4.487 ms - 2227[0m
+[0mGET /db/services/5a8ad5057e708e7e3fb34e4f [32m200 [0m3.195 ms - 1008[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m3.696 ms - 281[0m
+[0mGET /db/services/5a8ad5057e708e7e3fb34e4f [32m200 [0m1.440 ms - 1008[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.121 ms - 281[0m
+[0mGET /db/services/5a8ad5057e708e7e3fb34e4f [32m200 [0m1.511 ms - 1008[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.370 ms - 281[0m
+[0mOPTIONS /db/services [32m204 [0m0.450 ms - 0[0m
+[0mPUT /db/services [32m200 [0m7.958 ms - 7[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m6.191 ms - 2407[0m
+[0mGET /db/services/5a7d9866fa50ff7c8a676f1c [32m200 [0m2.373 ms - 532[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m2.778 ms - 281[0m
+[0mOPTIONS /db/services [32m204 [0m0.292 ms - 0[0m
+[0mPUT /db/services [32m200 [0m6.836 ms - 7[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m4.851 ms - 2607[0m
+[0mGET /db/services/5a7d92dd4357bb44791d745f [32m200 [0m2.158 ms - 602[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.930 ms - 281[0m
+[0mOPTIONS /db/services [32m204 [0m0.259 ms - 0[0m
+[0mPUT /db/services [32m200 [0m6.730 ms - 7[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m4.729 ms - 2866[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.259 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.117 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.090 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.029 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.243 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.140 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.347 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.177 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m2.179 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.120 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.394 ms - 281[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.009 ms - 281[0m
+[0mOPTIONS /db/companies [32m204 [0m0.241 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m18.398 ms - 7[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m3.477 ms - 2866[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m3.840 ms - 2866[0m
+[0mGET /db/services/5a7d92dd4357bb44791d745f [32m200 [0m2.719 ms - 861[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m4.563 ms - 430[0m
+[0mOPTIONS /db/services [32m204 [0m0.167 ms - 0[0m
+[0mPUT /db/services [32m200 [0m2.521 ms - 7[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m4.336 ms - 2789[0m
+[0mGET /db/services/5a7d9866fa50ff7c8a676f1c [32m200 [0m5.026 ms - 732[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m5.925 ms - 430[0m
+[0mOPTIONS /db/services [32m204 [0m0.251 ms - 0[0m
+[0mPUT /db/services [32m200 [0m6.392 ms - 7[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m4.668 ms - 2842[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.125 ms - 430[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.251 ms - 430[0m
+[0mOPTIONS /db/companies [32m204 [0m0.079 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m3.194 ms - 7[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.418 ms - 547[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m10.886 ms - 2842[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.598 ms - 547[0m
+[0mGET /db/services/5a7d92dd4357bb44791d745f [32m200 [0m2.867 ms - 784[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.192 ms - 547[0m
+[0mOPTIONS /db/companies [32m204 [0m0.073 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m2.363 ms - 7[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.184 ms - 547[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.040 ms - 547[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.107 ms - 547[0m
+[0mOPTIONS /db/companies [32m204 [0m0.105 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m3.159 ms - 7[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.066 ms - 565[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mOPTIONS /db/companies [32m204 [0m2.515 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m32.401 ms - 7[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m2.680 ms - 415[0m
+[0mOPTIONS /db/companies [32m204 [0m0.299 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m6.297 ms - 7[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.291 ms - 419[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.130 ms - 419[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.251 ms - 419[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.069 ms - 419[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.186 ms - 419[0m
+[0mOPTIONS /db/companies [32m204 [0m0.108 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m3.156 ms - 7[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.172 ms - 460[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.293 ms - 460[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.195 ms - 460[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.181 ms - 460[0m
+[0mOPTIONS /db/companies [32m204 [0m0.250 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m3.852 ms - 7[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.228 ms - 506[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.158 ms - 506[0m
+[0mOPTIONS /db/companies [32m204 [0m0.085 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m3.232 ms - 7[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.093 ms - 594[0m
+[0mOPTIONS /users/signin [32m204 [0m0.076 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m120.077 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m6.198 ms - 1236[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.887 ms - 555[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.178 ms - 555[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m4.245 ms - 555[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.108 ms - 555[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.208 ms - 555[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.184 ms - 555[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.191 ms - 555[0m
+[0mOPTIONS /db/companies [32m204 [0m0.226 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m8.755 ms - 7[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.356 ms - 1236[0m
+[0mGET /db/services/5a7c68f5ea9d122d29c0902e [32m200 [0m1.819 ms - 346[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.999 ms - 520[0m
+[0mOPTIONS /db/services [32m204 [0m0.261 ms - 0[0m
+[0mPUT /db/services [32m200 [0m6.981 ms - 7[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.943 ms - 1373[0m
+[0mGET /db/services/5a7c694fea9d122d29c0902f [32m200 [0m3.205 ms - 525[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m8.880 ms - 520[0m
+[0mOPTIONS /db/services [32m204 [0m0.274 ms - 0[0m
+[0mPUT /db/services [32m200 [0m5.076 ms - 7[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.704 ms - 1569[0m
+[0mGET /db/services/5a7c6985ea9d122d29c09030 [32m200 [0m2.177 ms - 277[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m3.363 ms - 520[0m
+[0mOPTIONS /db/services [32m204 [0m0.263 ms - 0[0m
+[0mPUT /db/services [32m200 [0m6.921 ms - 7[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m4.019 ms - 1745[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.757 ms - 520[0m
+[0mOPTIONS /db/companies [32m204 [0m0.080 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m2.396 ms - 7[0m
+[0mOPTIONS /db/companies [32m204 [0m0.132 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m3.721 ms - 7[0m
+[0mGET /db/services [32m200 [0m12.249 ms - 5171[0m
+[0mOPTIONS /users/signin [32m204 [0m0.104 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m95.115 ms - 242[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m3.722 ms - 2842[0m
+[0mGET /db/services/5a8ad5057e708e7e3fb34e4f [32m200 [0m2.208 ms - 1188[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m8.397 ms - 594[0m
+[0mOPTIONS /db/services [32m204 [0m0.250 ms - 0[0m
+[0mPUT /db/services [32m200 [0m6.103 ms - 7[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m4.447 ms - 2835[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.775 ms - 594[0m
+[0mOPTIONS /users/signin [32m204 [0m0.089 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m105.104 ms - 242[0m
+[0mGET /db/services/company/5a7c4e4107eb464e7874cd22 [32m200 [0m0.980 ms - 2[0m
+[0mGET /db/companies/5a7c4e4107eb464e7874cd22 [32m200 [0m5.646 ms - 266[0m
+[0mOPTIONS /db/services [32m204 [0m0.248 ms - 0[0m
+[0mPOST /db/services [32m200 [0m18.237 ms - 37[0m
+[0mGET /db/services/company/5a7c4e4107eb464e7874cd22 [32m200 [0m2.852 ms - 1832[0m
+[0mGET /db/companies/5a7c4e4107eb464e7874cd22 [32m200 [0m1.821 ms - 266[0m
+[0mOPTIONS /db/services [32m204 [0m0.272 ms - 0[0m
+[0mPOST /db/services [32m200 [0m12.059 ms - 37[0m
+[0mGET /db/services/company/5a7c4e4107eb464e7874cd22 [32m200 [0m4.660 ms - 3099[0m
+[0mGET /db/companies/5a7c4e4107eb464e7874cd22 [32m200 [0m1.813 ms - 266[0m
+[0mOPTIONS /db/companies [32m204 [0m0.093 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m2.825 ms - 7[0m
+[0mGET /db/companies/5a7c4e4107eb464e7874cd22 [32m200 [0m1.570 ms - 461[0m
+[0mOPTIONS /users/signin [32m204 [0m0.077 ms - 0[0m
+[0mPOST /users/signin [33m401 [0m1.643 ms - -[0m
+[0mOPTIONS /users/signin [32m204 [0m0.077 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m91.256 ms - 242[0m
+[0mGET /db/services/company/5a854651b8ec1f36b3c34342 [32m200 [0m1.313 ms - 2[0m
+[0mGET /db/companies/5a854651b8ec1f36b3c34342 [32m200 [0m1.845 ms - 307[0m
+[0mOPTIONS /db/services [32m204 [0m0.271 ms - 0[0m
+[0mPOST /db/services [32m200 [0m6.209 ms - 37[0m
+[0mGET /db/services/company/5a854651b8ec1f36b3c34342 [32m200 [0m2.233 ms - 1012[0m
+[0mGET /db/companies/5a854651b8ec1f36b3c34342 [32m200 [0m1.731 ms - 307[0m
+[0mOPTIONS /db/services [32m204 [0m0.263 ms - 0[0m
+[0mPOST /db/services [32m200 [0m4.704 ms - 37[0m
+[0mGET /db/services/company/5a854651b8ec1f36b3c34342 [32m200 [0m2.682 ms - 1596[0m
+[0mGET /db/companies/5a854651b8ec1f36b3c34342 [32m200 [0m1.669 ms - 307[0m
+[0mOPTIONS /db/companies [32m204 [0m0.076 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m2.830 ms - 7[0m
+[0mGET /db/companies/5a854651b8ec1f36b3c34342 [32m200 [0m1.440 ms - 456[0m
+[0mOPTIONS /db/companies [32m204 [0m0.078 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m2.453 ms - 7[0m
+[0mGET /db/services [32m200 [0m14.070 ms - 10259[0m
+[0mOPTIONS /users/signin [32m204 [0m0.231 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m127.388 ms - 242[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m0.885 ms - 2[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.871 ms - 271[0m
+[0mOPTIONS /db/companies [32m204 [0m0.619 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m4.397 ms - 7[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m0.950 ms - 2[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.222 ms - 472[0m
+[0mOPTIONS /db/services [32m204 [0m0.233 ms - 0[0m
+[0mPOST /db/services [32m200 [0m7.564 ms - 37[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m2.026 ms - 966[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.770 ms - 472[0m
+[0mOPTIONS /db/services [32m204 [0m0.252 ms - 0[0m
+[0mPOST /db/services [32m200 [0m12.005 ms - 37[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m3.806 ms - 3458[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.360 ms - 472[0m
+[0mOPTIONS /db/companies [32m204 [0m0.241 ms - 0[0m
+[0mPUT /db/companies [32m200 [0m4.342 ms - 7[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m3.523 ms - 3458[0m
+[0mGET /db/services/5a8adc6c74df430ff5b29f8e [32m200 [0m1.565 ms - 937[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.251 ms - 473[0m
+[0mOPTIONS /db/services [32m204 [0m0.233 ms - 0[0m
+[0mPUT /db/services [32m200 [0m4.962 ms - 7[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m9.073 ms - 3278[0m
+[0mGET /db/services/5a8adc7574df430ff5b29f8f [32m200 [0m2.548 ms - 2464[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.451 ms - 473[0m
+[0mOPTIONS /db/services [32m204 [0m0.241 ms - 0[0m
+[0mPUT /db/services [32m200 [0m5.813 ms - 7[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m2.904 ms - 1478[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.520 ms - 473[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.058 ms - 473[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.107 ms - 473[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m2.793 ms - 1478[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m2.226 ms - 473[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m3.149 ms - 1478[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.258 ms - 473[0m
+[0mGET /db/services [32m200 [0m17.014 ms - 11952[0m
+[0mOPTIONS /users/signin [32m204 [0m0.072 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m90.180 ms - 242[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.227 ms - 1745[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.084 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m5.525 ms - 4679[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.068 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m3.263 ms - 4679[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/controllers/db.js:128
+        res.status(200).json(answer)
+        ^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/controllers/db.js:127
+            let booking = bookings[i].toObject(;
+                                               ^
+
+SyntaxError: Unexpected token ;
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/controllers/db.js:128
+            const ser
+                  ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/controllers/db.js:128
+            const ser
+                  ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/controllers/db.js:130
+        }
+        ^
+
+SyntaxError: Unexpected token }
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/controllers/db.js:128
+            const service = Service.findOne({_id:})
+                                                 ^
+
+SyntaxError: Unexpected token }
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/controllers/db.js:128
+            const service = Service.findOne({_id: })
+                                                  ^
+
+SyntaxError: Unexpected token }
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/controllers/db.js:131
+        }
+        ^
+
+SyntaxError: Unexpected token }
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+/home/assist/Projects/NodeApi/controllers/db.js:132
+        }
+        ^
+
+SyntaxError: Unexpected token }
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/assist/Projects/NodeApi/routes/db.js:9:22)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mOPTIONS /db/bookings [32m204 [0m4.711 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m19.695 ms - 4079[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.186 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m5.873 ms - 4079[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.134 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m5.096 ms - 4079[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.078 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m4.478 ms - 4079[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mOPTIONS /db/bookings [32m204 [0m1.704 ms - 0[0m
+[0mGET /db/bookings [31m500 [0m23.656 ms - 660[0m
+TypeError: Converting circular structure to JSON
+    at JSON.stringify (<anonymous>)
+    at stringify (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:1119:12)
+    at ServerResponse.json (/home/assist/Projects/NodeApi/node_modules/express/lib/response.js:260:14)
+    at getBookings (/home/assist/Projects/NodeApi/controllers/db.js:134:25)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mOPTIONS /db/bookings [32m204 [0m1.658 ms - 0[0m
+[0mGET /db/bookings [31m500 [0m18.809 ms - 388[0m
+TypeError: Cannot read property 'name' of null
+    at getBookings (/home/assist/Projects/NodeApi/controllers/db.js:130:43)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mOPTIONS /db/bookings [32m204 [0m1.710 ms - 0[0m
+[0mGET /db/bookings [31m500 [0m30.968 ms - 388[0m
+TypeError: Cannot read property 'name' of null
+    at getBookings (/home/assist/Projects/NodeApi/controllers/db.js:130:43)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mOPTIONS /db/bookings [32m204 [0m1.670 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m30.016 ms - 214[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.184 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m4.035 ms - 109[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Server is listening at 3800
+[0mOPTIONS /db/bookings [32m204 [0m1.681 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m21.153 ms - 1000[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.019 ms - 1745[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.303 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m6.893 ms - 1000[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m6.979 ms - 1745[0m
+[0mOPTIONS /db/services/5a7c6985ea9d122d29c09030 [32m204 [0m0.180 ms - 0[0m
+[0mDELETE /db/services/5a7c6985ea9d122d29c09030 [32m200 [0m8.613 ms - 85[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.179 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m4.717 ms - 494[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m2.555 ms - 1263[0m
+[0mOPTIONS /db/services/5a7c68f5ea9d122d29c0902e [32m204 [0m0.108 ms - 0[0m
+[0mDELETE /db/services/5a7c68f5ea9d122d29c0902e [32m200 [0m5.113 ms - 85[0m
+[0mGET /db/services/5a7c694fea9d122d29c0902f [32m200 [0m2.937 ms - 721[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m7.477 ms - 470[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m2.904 ms - 751[0m
+[0mOPTIONS /db/services/5a7c694fea9d122d29c0902f [32m204 [0m0.138 ms - 0[0m
+[0mDELETE /db/services/5a7c694fea9d122d29c0902f [32m200 [0m3.073 ms - 85[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.965 ms - 470[0m
+[0mOPTIONS /db/services [32m204 [0m0.130 ms - 0[0m
+[0mPOST /db/services [32m200 [0m45.886 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m2.710 ms - 552[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.228 ms - 470[0m
+[0mOPTIONS /db/services [32m204 [0m0.259 ms - 0[0m
+[0mPOST /db/services [32m200 [0m6.051 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m3.474 ms - 1303[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.497 ms - 470[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m5.316 ms - 1303[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m3.608 ms - 470[0m
+[0mOPTIONS /db/services [32m204 [0m0.256 ms - 0[0m
+[0mPOST /db/services [32m200 [0m4.355 ms - 37[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m16.264 ms - 2023[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m1.115 ms - 470[0m
+[0mGET /db/services/company/5a7c4ee107eb464e7874cd26 [32m200 [0m10.721 ms - 2023[0m
+[0mGET /db/companies/5a7c4ee107eb464e7874cd26 [32m200 [0m2.764 ms - 470[0m
+[0mOPTIONS /users/signin [32m204 [0m0.083 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m124.410 ms - 242[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m3.903 ms - 2835[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.308 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m17.571 ms - 1730[0m
+[0mGET /db/services/company/5a7c4ec707eb464e7874cd24 [32m200 [0m3.941 ms - 2835[0m
+[0mGET /db/companies/5a7c4ec707eb464e7874cd24 [32m200 [0m1.418 ms - 594[0m
+[0mOPTIONS /users/signin [32m204 [0m0.090 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m102.264 ms - 242[0m
+[0mGET /db/services/company/5a854651b8ec1f36b3c34342 [32m200 [0m2.753 ms - 1596[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.290 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m7.217 ms - 2[0m
+[0mGET /db/services/company/5a854651b8ec1f36b3c34342 [32m200 [0m3.761 ms - 1596[0m
+[0mGET /db/companies/5a854651b8ec1f36b3c34342 [32m200 [0m1.411 ms - 456[0m
+[0mGET /db/services/5a8adc1974df430ff5b29f8c [32m200 [0m3.723 ms - 983[0m
+[0mGET /db/services/company/5a854651b8ec1f36b3c34342 [32m200 [0m14.980 ms - 1596[0m
+[0mGET /db/services/5a8adc2474df430ff5b29f8d [32m200 [0m2.718 ms - 556[0m
+[0mGET /db/companies/5a854651b8ec1f36b3c34342 [32m200 [0m2.350 ms - 456[0m
+[0mGET /db/companies/5a854651b8ec1f36b3c34342 [32m200 [0m1.456 ms - 456[0m
+[0mOPTIONS /users/signin [32m204 [0m0.248 ms - 0[0m
+[0mPOST /users/signin [33m401 [0m5.089 ms - -[0m
+[0mOPTIONS /users/signin [32m204 [0m0.263 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m113.894 ms - 242[0m
+[0mGET /db/services/company/5a7c4e4107eb464e7874cd22 [32m200 [0m3.589 ms - 3099[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.233 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m10.881 ms - 2[0m
+[0mGET /db/services/company/5a7c4e4107eb464e7874cd22 [32m200 [0m12.885 ms - 3099[0m
+[0mGET /db/companies/5a7c4e4107eb464e7874cd22 [32m200 [0m1.664 ms - 461[0m
+[0mOPTIONS /users/signin [32m204 [0m0.091 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m94.525 ms - 242[0m
+[0mGET /db/services/company/5a7c4e4107eb464e7874cd22 [32m200 [0m3.467 ms - 3099[0m
+[0mGET /db/companies/5a7c4e4107eb464e7874cd22 [32m200 [0m1.704 ms - 461[0m
+[0mOPTIONS /users/signin [32m204 [0m0.078 ms - 0[0m
+[0mPOST /users/signin [32m200 [0m88.545 ms - 242[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m8.610 ms - 1478[0m
+[0mOPTIONS /db/bookings [32m204 [0m0.179 ms - 0[0m
+[0mGET /db/bookings [32m200 [0m2.395 ms - 2[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m5.677 ms - 473[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m4.504 ms - 1478[0m
+[0mGET /db/services/5a8adc6c74df430ff5b29f8e [32m200 [0m3.338 ms - 757[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m4.837 ms - 473[0m
+[0mGET /db/services/company/5a83e9a4b8ec1f36b3c3433e [32m200 [0m5.469 ms - 1478[0m
+[0mGET /db/services/5a8adc7574df430ff5b29f8f [32m200 [0m6.473 ms - 664[0m
+[0mGET /db/companies/5a83e9a4b8ec1f36b3c3433e [32m200 [0m1.255 ms - 473[0m
