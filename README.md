@@ -1,11 +1,21 @@
-#NodeAuthAPI
-
-there are some steps that need to be done before you can run this project,
-I'll take some time later to explain all steps in detail
-
-need to have node installed
-need to install mongoDb
+# NodeAuthAPI
 
 
-download project
-npm install
+### Prerequisites:
+- [ ] NodeJS
+- [ ] [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+
+### Before running the server:
+Make sure to start the MongoDB:
+
+`sudo service mongod start`
+
+### Run project:
+
+`git clone`
+
+`cd NodeAuthAPI/`
+
+`npm i`
+
+`npm run start`
